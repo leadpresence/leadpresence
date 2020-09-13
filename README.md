@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**leadpresence/leadpresence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hey there 👋
 - 😄 I am CHIBUEEZE FELIX your smiley developer
 - 🔭 I’m currently working on nurses.ng a flutter application
 - 🌱 I’m currently learning kotlin to build more native Android application
@@ -13,4 +8,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: noblefelix4@gmail.com
 - 😄 Pronouns: Him/His
 - ⚡ Fun fact: I enjoy Stocks Trading/T.D Jakes /Drake 
+<!--
+**leadpresence/leadpresence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
 -->
