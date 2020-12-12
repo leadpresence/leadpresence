@@ -1,5 +1,5 @@
 ### Hey there 👋
-- 😄 I am CHIBUEEZE FELIX your smiley developer
+- 😄 I am CHIBUEZE FELIX your smiley developer
 - 🔭 I’m currently working on nurses.ng a flutter application
 - 🌱 I’m currently learning kotlin to build more native Android application
 - 👯 I’m looking to collaborate on Flutter and Kotlin application around the worls
