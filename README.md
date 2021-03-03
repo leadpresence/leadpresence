@@ -1,10 +1,8 @@
 ### Hey there 👋
 - 😄 I am CHIBUEZE FELIX your smiley developer
 
-- 🌱 I’m currently learning kotlin to build more native Android application
 - 👯 I’m looking to collaborate on Flutter and Kotlin application around the world
-- 🤔 I’m looking for help with any flutter projects for now
-- 💬 Ask me about Flutter and Kotlin and wordpress   
+- 💬 Ask me about Dart and Kotlin and php   
 - 📫 How to reach me: noblefelix4@gmail.com
 - 😄 Pronouns: Him/His
 - ⚡ Fun fact: I enjoy Stocks Trading/T.D Jakes /Drake 
