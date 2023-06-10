@@ -2,7 +2,7 @@
 - 😄 I am CHIBUEZE FELIX your smiley developer
 
 - 👯 I’m looking to collaborate on Flutter and Kotlin application around the world
-- 💬 Ask me about Dart and Kotlin and php   
+- 💬 Ask me about Dart and Kotlin , Swift   and software architecting 
 - 📫 How to reach me: noblefelix4@gmail.com
 - 😄 Pronouns: Him/His
 - ⚡ Fun fact: I enjoy Stocks Trading/T.D Jakes /Drake 
